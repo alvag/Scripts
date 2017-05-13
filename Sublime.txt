@@ -1,0 +1,25 @@
+Plugins Sublime:
+
+AutoFileName
+https://github.com/BoundInCode/AutoFileName
+
+BracketHighlighter
+https://github.com/facelessuser/BracketHighlighter
+
+Color Highlighter
+https://github.com/Monnoroch/ColorHighlighter
+
+TypeScript
+https://github.com/Microsoft/TypeScript-Sublime-Plugin
+
+Comment-Snippets
+https://github.com/hachesilva/Comment-Snippets
+
+Bootstrap 4 Autocomplete
+https://github.com/webchun/bootstrap-4-sublime-autocomplete
+
+Bootstrap 4 Snippets
+https://github.com/degouville/sublime-bootstrap4
+
+Angular 2 Snippets
+https://github.com/pjlamb12/st3-ng2-snippets
