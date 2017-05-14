@@ -23,3 +23,6 @@ https://github.com/degouville/sublime-bootstrap4
 
 Angular 2 Snippets
 https://github.com/pjlamb12/st3-ng2-snippets
+
+Sublime Icon Fonts
+https://github.com/idleberg/sublime-icon-fonts
