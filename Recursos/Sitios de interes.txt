@@ -9,3 +9,6 @@ https://hackerthemes.com/bootstrap-cheatsheet/
 
 Dashboard UI kit for Photoshop and Sketch
 https://freebiesbug.com/psd-freebies/free-dashboard-ui-kit-photoshop-sketch/
+
+Simple yet flexible JavaScript charting for designers & developers
+http://www.chartjs.org/
