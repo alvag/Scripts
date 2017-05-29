@@ -3,3 +3,6 @@ https://www.uplabs.com/
 
 Bootstrap Cheat Sheet
 https://hackerthemes.com/bootstrap-cheatsheet/
+
+ The Top 9 Animation Libraries for UI Designers in 2017 
+ https://www.sitepoint.com/our-top-9-animation-libraries/
