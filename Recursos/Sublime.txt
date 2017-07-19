@@ -26,3 +26,9 @@ https://github.com/pjlamb12/st3-ng2-snippets
 
 Sublime Icon Fonts
 https://github.com/idleberg/sublime-icon-fonts
+
+Vue Syntax Highlight
+https://github.com/vuejs/vue-syntax-highlight
+
+Emmet
+https://packagecontrol.io/packages/Emmet

@@ -1,6 +1,12 @@
 Uplabs es un lugar lleno de varios diseños, sea para moviles, paginas web y mas que puedes utilizarte para inspirarte y sacar ideas para tus proyectos.
 https://www.uplabs.com/
 
+UI Template | Best web design inspiration & UI inspiration
+http://www.uitemple.com/
+
+CSS Gradient Buttons
+http://gradientbuttons.colorion.co/
+
 Bootstrap Cheat Sheet
 https://hackerthemes.com/bootstrap-cheatsheet/
 
@@ -12,3 +18,6 @@ https://freebiesbug.com/psd-freebies/free-dashboard-ui-kit-photoshop-sketch/
 
 Simple yet flexible JavaScript charting for designers & developers
 http://www.chartjs.org/
+
+SSL Certificates
+https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4
