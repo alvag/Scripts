@@ -21,3 +21,16 @@ http://www.chartjs.org/
 
 SSL Certificates
 https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4
+
+
+motion graphics toolbelt for the web -- animaciones js
+http://mojs.io/
+
+55+ UI Kit Elements
+https://webresourcesdepot.com/55-ui-kit-elements/
+
+DropzoneJS
+http://www.dropzonejs.com/
+
+Material Dialogs personalizables, bellos y fluidos para Android
+https://github.com/afollestad/material-dialogs
